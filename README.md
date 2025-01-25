@@ -7,7 +7,6 @@ A lightweight, fast & easy dependency injection framework for .NET
 - Zero configuration required
 - Multiple service registration patterns
 - Support for different lifetimes (Transient, Singleton, Scoped, etc.)
-- Automatic constructor injection
 
 ## Installation
 
