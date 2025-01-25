@@ -1,7 +1,6 @@
 # 🦖 Dinosaur.NET
 
-A lightweight, fast & easy dependency injection framework for .NET 9 that supports multiple registration patterns with zero configuration required!
-
+A lightweight, fast & easy dependency injection framework for .NET
 
 ## Features
 
